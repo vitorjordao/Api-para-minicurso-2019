@@ -7,7 +7,7 @@ public class Pessoa {
 	private final boolean tipo1;
 	private final boolean tipo2;
 	private final String genero;
-	
+
 	public Pessoa(final String name, final String email, final int age, final boolean tipo1, final boolean tipo2, final String genero) {
 		super();
 		this.name = name;
